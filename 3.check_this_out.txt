@@ -1,0 +1,8 @@
+1) git log
+
+1) [* a48c005c761902395cf9a50f13ddbffeee4f5537 *]
+2) q
+3) git checkout a48c005c761902395cf9a50f13ddbffeee4f5537
+4) cat README.md
+5) git checkout master
+6) cat README.md

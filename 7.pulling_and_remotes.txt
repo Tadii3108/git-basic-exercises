@@ -1,0 +1,11 @@
+1) cd ../
+2) https://github.com/Umuzi-org/tech-department
+3) *
+4) *
+5) git clone https://github.com/Umuzi-org/tech-department
+6) cd tech-department/
+7) git branch
+git log
+8) git branch -a
+9) git checkout -b projects/git-basic-exercises
+10) git remote -v

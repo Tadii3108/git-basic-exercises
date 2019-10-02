@@ -1,0 +1,17 @@
+* while still in project/git-basic-exercises *
+
+1) git log
+2) cd ..
+cd git-basic-exercises
+git log
+3) cd ..
+mkdir this-will-be-another-repo
+4) cd this-will-be-another-repo
+git init
+5) touch README.mkdir
+git status
+git add .
+git commit -m "initial commit"
+6) cd ..
+cd git-basic-exercises
+git log

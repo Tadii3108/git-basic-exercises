@@ -1,0 +1,17 @@
+1) git checkout master
+git merge milkshake-flavours
+2)ls
+git log
+3) git merge history
+4) ls
+git log
+5) git checkout history
+git log
+6) git checkout milkshake-flavours
+git log
+
+1) git checkout history
+git merge master
+git log
+2) git checkout master
+git log

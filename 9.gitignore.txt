@@ -1,0 +1,20 @@
+1) touch ignore-me.db
+2) git status
+3) nano .gitignore
+4) ignore-me.db
+- ctrl x
+- y
+5) git status
+6) mkdir large-directory-that-should-be-local-only
+7) cd large-directory-that-should-be-local-only
+nano readme.md 
+[random text in it]
+- ctrl x
+- y
+8) cd ..
+git status
+9) nano .gitignore
+/large-directory-that-should-be-local-only
+- ctrl x
+- y
+10) git status

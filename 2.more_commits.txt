@@ -1,0 +1,16 @@
+1) nano README.md
+[type in words of choice]
+- ctrl x
+- y
+2) cat README.md
+3) git status
+4) git add .
+git commit -m "second commit"
+git log
+5) nano README.md
+[type in words of choice]
+- ctrl x
+- y
+git status
+git add .
+git commit -m "third commit"

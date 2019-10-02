@@ -1,0 +1,40 @@
+1) git branch
+2) git branch milkshake-flavours
+3) git branch
+4) git checkout milkshake-flavours
+git branch
+5) nano milkshakes.md
+[strawberry
+chocolate
+lime
+oreo
+banana split]
+- ctrl x
+- y
+6) git status
+7) git add .
+git commit -a "added initial flavours"
+8) git log
+9) git checkout master
+10) git branch history
+11) history > history.txt
+12) git add .
+git commit -a "added history"
+git log
+13) git checkout milkshake-flavours
+git log
+14) nano README.md
+[arbitrary changes to this readme file.]
+- ctrl x
+- y
+git status
+git add .
+git commit -a "random readme changes"
+15) git checkout history
+cat README.md
+16) rm README.md 
+echo "booya" > README.md
+17) git status
+git add .
+git commit -a "rewrote readme"
+18) git checkout master 

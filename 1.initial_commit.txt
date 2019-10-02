@@ -1,0 +1,15 @@
+1) mkdir git-basic-exercises
+2) cd git-basic-exercises
+3) ls -a : [empty (. ..)]
+4) git init 
+ls -a [. .. .git]
+5) git status
+6) touch README.md 
+ls -a
+git status
+7) git log
+8) git add
+9) git status
+10) git status
+11) git commit -m "initial commit"
+12) git log
